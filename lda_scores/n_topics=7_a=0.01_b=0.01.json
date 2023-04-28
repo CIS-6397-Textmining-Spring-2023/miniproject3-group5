@@ -1,0 +1,93 @@
+{
+  "n_topics": 7,
+  "alpha": 0.01,
+  "eta": 0.01,
+  "perplexity": -8.43373869886566,
+  "coherence": 0.4167024764171698,
+  "topics": {
+    "0": {
+      "state": 0.022,
+      "islamic": 0.019,
+      "force": 0.011,
+      "syria": 0.01,
+      "group": 0.008,
+      "syrian": 0.007,
+      "military": 0.007,
+      "u": 0.007,
+      "city": 0.006,
+      "al": 0.006
+    },
+    "1": {
+      "state": 0.018,
+      "unite": 0.012,
+      "order": 0.011,
+      "turkey": 0.008,
+      "trump": 0.008,
+      "president": 0.005,
+      "iraq": 0.005,
+      "security": 0.005,
+      "would": 0.005,
+      "kurds": 0.005
+    },
+    "2": {
+      "time": 0.006,
+      "new": 0.006,
+      "facebook": 0.005,
+      "people": 0.005,
+      "like": 0.005,
+      "one": 0.005,
+      "news": 0.004,
+      "make": 0.004,
+      "would": 0.004,
+      "trump": 0.003
+    },
+    "3": {
+      "attack": 0.014,
+      "state": 0.009,
+      "police": 0.008,
+      "kill": 0.008,
+      "islamic": 0.007,
+      "people": 0.007,
+      "one": 0.005,
+      "bomb": 0.005,
+      "group": 0.005,
+      "two": 0.004
+    },
+    "4": {
+      "state": 0.011,
+      "new": 0.007,
+      "iraq": 0.006,
+      "time": 0.006,
+      "trump": 0.006,
+      "iraqi": 0.005,
+      "islamic": 0.005,
+      "mosul": 0.005,
+      "york": 0.005,
+      "attack": 0.005
+    },
+    "5": {
+      "go": 0.01,
+      "trump": 0.008,
+      "think": 0.008,
+      "get": 0.007,
+      "people": 0.006,
+      "one": 0.006,
+      "time": 0.006,
+      "new": 0.005,
+      "like": 0.005,
+      "would": 0.005
+    },
+    "6": {
+      "trump": 0.02,
+      "state": 0.01,
+      "president": 0.009,
+      "u": 0.008,
+      "american": 0.007,
+      "syria": 0.007,
+      "administration": 0.006,
+      "military": 0.006,
+      "obama": 0.006,
+      "would": 0.006
+    }
+  }
+}

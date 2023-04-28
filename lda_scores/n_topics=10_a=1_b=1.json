@@ -1,0 +1,129 @@
+{
+  "n_topics": 10,
+  "alpha": 1,
+  "eta": 1,
+  "perplexity": -8.299532906083359,
+  "coherence": 0.40673749991052094,
+  "topics": {
+    "0": {
+      "state": 0.018,
+      "islamic": 0.015,
+      "force": 0.009,
+      "syria": 0.009,
+      "u": 0.006,
+      "group": 0.006,
+      "military": 0.006,
+      "iraq": 0.006,
+      "syrian": 0.006,
+      "american": 0.006
+    },
+    "1": {
+      "state": 0.0,
+      "trump": 0.0,
+      "islamic": 0.0,
+      "canyon": 0.0,
+      "eu": 0.0,
+      "u": 0.0,
+      "american": 0.0,
+      "group": 0.0,
+      "syria": 0.0,
+      "new": 0.0
+    },
+    "2": {
+      "facebook": 0.005,
+      "news": 0.004,
+      "time": 0.004,
+      "people": 0.004,
+      "like": 0.003,
+      "new": 0.003,
+      "one": 0.003,
+      "company": 0.003,
+      "media": 0.003,
+      "make": 0.003
+    },
+    "3": {
+      "attack": 0.013,
+      "police": 0.009,
+      "kill": 0.006,
+      "people": 0.005,
+      "state": 0.004,
+      "one": 0.004,
+      "two": 0.003,
+      "manchester": 0.003,
+      "islamic": 0.003,
+      "bomb": 0.003
+    },
+    "4": {
+      "trump": 0.012,
+      "state": 0.008,
+      "president": 0.006,
+      "new": 0.006,
+      "go": 0.006,
+      "time": 0.005,
+      "people": 0.005,
+      "think": 0.005,
+      "would": 0.004,
+      "unite": 0.004
+    },
+    "5": {
+      "one": 0.004,
+      "new": 0.003,
+      "like": 0.003,
+      "time": 0.003,
+      "book": 0.002,
+      "write": 0.002,
+      "women": 0.002,
+      "team": 0.002,
+      "get": 0.002,
+      "make": 0.002
+    },
+    "6": {
+      "trump": 0.014,
+      "president": 0.006,
+      "state": 0.006,
+      "afghanistan": 0.005,
+      "administration": 0.005,
+      "military": 0.005,
+      "american": 0.005,
+      "u": 0.005,
+      "obama": 0.005,
+      "would": 0.005
+    },
+    "7": {
+      "brandy": 0.001,
+      "ackerman": 0.001,
+      "haris": 0.001,
+      "novel": 0.001,
+      "daesh": 0.001,
+      "war": 0.0,
+      "american": 0.0,
+      "distil": 0.0,
+      "cognac": 0.0,
+      "state": 0.0
+    },
+    "8": {
+      "vegas": 0.002,
+      "paddock": 0.002,
+      "las": 0.002,
+      "gun": 0.002,
+      "shoot": 0.001,
+      "gunman": 0.001,
+      "casino": 0.001,
+      "festival": 0.001,
+      "hotel": 0.001,
+      "rifle": 0.001
+    },
+    "9": {
+      "one": 0.002,
+      "tell": 0.002,
+      "children": 0.002,
+      "time": 0.002,
+      "young": 0.002,
+      "would": 0.002,
+      "mustapha": 0.002,
+      "ms": 0.002,
+      "year": 0.002,
+      "old": 0.002
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "n_topics": 6,
+  "alpha": 0.3,
+  "eta": 0.3,
+  "perplexity": -8.135527428063858,
+  "coherence": 0.41708710708617974,
+  "topics": {
+    "0": {
+      "state": 0.019,
+      "islamic": 0.015,
+      "syria": 0.011,
+      "force": 0.01,
+      "u": 0.008,
+      "military": 0.007,
+      "syrian": 0.007,
+      "iraq": 0.007,
+      "american": 0.006,
+      "group": 0.006
+    },
+    "1": {
+      "trump": 0.016,
+      "state": 0.011,
+      "president": 0.007,
+      "unite": 0.007,
+      "u": 0.006,
+      "iran": 0.005,
+      "order": 0.005,
+      "administration": 0.005,
+      "russia": 0.005,
+      "would": 0.005
+    },
+    "2": {
+      "time": 0.005,
+      "facebook": 0.005,
+      "new": 0.005,
+      "people": 0.004,
+      "like": 0.004,
+      "one": 0.004,
+      "news": 0.004,
+      "trump": 0.004,
+      "make": 0.003,
+      "would": 0.003
+    },
+    "3": {
+      "attack": 0.011,
+      "state": 0.009,
+      "islamic": 0.007,
+      "kill": 0.007,
+      "police": 0.006,
+      "afghanistan": 0.006,
+      "people": 0.005,
+      "group": 0.005,
+      "one": 0.004,
+      "bomb": 0.004
+    },
+    "4": {
+      "trump": 0.015,
+      "state": 0.011,
+      "president": 0.007,
+      "unite": 0.006,
+      "new": 0.005,
+      "american": 0.005,
+      "iraq": 0.005,
+      "islamic": 0.004,
+      "time": 0.004,
+      "would": 0.004
+    },
+    "5": {
+      "trump": 0.008,
+      "go": 0.008,
+      "think": 0.007,
+      "get": 0.006,
+      "time": 0.006,
+      "new": 0.006,
+      "one": 0.005,
+      "people": 0.005,
+      "president": 0.005,
+      "like": 0.005
+    }
+  }
+}

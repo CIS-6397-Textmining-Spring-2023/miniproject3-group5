@@ -1,0 +1,69 @@
+{
+  "n_topics": 5,
+  "alpha": 1,
+  "eta": 1,
+  "perplexity": -8.244830254209925,
+  "coherence": 0.45879086815839776,
+  "topics": {
+    "0": {
+      "state": 0.017,
+      "islamic": 0.014,
+      "syria": 0.009,
+      "force": 0.009,
+      "u": 0.007,
+      "military": 0.007,
+      "group": 0.006,
+      "iraq": 0.006,
+      "american": 0.006,
+      "syrian": 0.006
+    },
+    "1": {
+      "shall": 0.002,
+      "state": 0.002,
+      "order": 0.002,
+      "unite": 0.002,
+      "entry": 0.002,
+      "section": 0.002,
+      "secretary": 0.002,
+      "nationals": 0.001,
+      "effective": 0.001,
+      "visa": 0.001
+    },
+    "2": {
+      "time": 0.006,
+      "new": 0.005,
+      "one": 0.005,
+      "like": 0.005,
+      "people": 0.004,
+      "make": 0.003,
+      "would": 0.003,
+      "go": 0.003,
+      "york": 0.003,
+      "take": 0.003
+    },
+    "3": {
+      "go": 0.008,
+      "think": 0.007,
+      "attack": 0.006,
+      "people": 0.006,
+      "gigot": 0.005,
+      "get": 0.005,
+      "trump": 0.005,
+      "one": 0.004,
+      "state": 0.004,
+      "police": 0.004
+    },
+    "4": {
+      "trump": 0.016,
+      "state": 0.01,
+      "president": 0.007,
+      "new": 0.005,
+      "unite": 0.005,
+      "would": 0.004,
+      "american": 0.004,
+      "time": 0.004,
+      "administration": 0.003,
+      "one": 0.003
+    }
+  }
+}

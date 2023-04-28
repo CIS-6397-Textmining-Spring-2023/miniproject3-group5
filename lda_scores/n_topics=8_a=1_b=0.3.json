@@ -1,0 +1,105 @@
+{
+  "n_topics": 8,
+  "alpha": 1,
+  "eta": 0.3,
+  "perplexity": -8.142573262947964,
+  "coherence": 0.41195766624326957,
+  "topics": {
+    "0": {
+      "state": 0.022,
+      "islamic": 0.018,
+      "force": 0.011,
+      "syria": 0.01,
+      "syrian": 0.007,
+      "military": 0.007,
+      "iraq": 0.007,
+      "group": 0.007,
+      "u": 0.007,
+      "american": 0.006
+    },
+    "1": {
+      "kurds": 0.006,
+      "day": 0.005,
+      "kurdish": 0.004,
+      "kurdistan": 0.004,
+      "referendum": 0.004,
+      "turkey": 0.003,
+      "independence": 0.003,
+      "state": 0.003,
+      "vote": 0.003,
+      "trump": 0.003
+    },
+    "2": {
+      "time": 0.006,
+      "facebook": 0.005,
+      "new": 0.005,
+      "people": 0.005,
+      "like": 0.004,
+      "one": 0.004,
+      "news": 0.004,
+      "make": 0.004,
+      "media": 0.003,
+      "would": 0.003
+    },
+    "3": {
+      "attack": 0.012,
+      "police": 0.007,
+      "kill": 0.007,
+      "state": 0.007,
+      "people": 0.006,
+      "islamic": 0.006,
+      "one": 0.005,
+      "two": 0.004,
+      "isis": 0.004,
+      "bomb": 0.004
+    },
+    "4": {
+      "state": 0.011,
+      "trump": 0.007,
+      "new": 0.006,
+      "time": 0.006,
+      "unite": 0.005,
+      "islamic": 0.005,
+      "york": 0.004,
+      "attack": 0.004,
+      "iraq": 0.004,
+      "president": 0.004
+    },
+    "5": {
+      "go": 0.009,
+      "trump": 0.008,
+      "think": 0.007,
+      "get": 0.006,
+      "time": 0.006,
+      "new": 0.006,
+      "people": 0.005,
+      "one": 0.005,
+      "president": 0.005,
+      "like": 0.005
+    },
+    "6": {
+      "trump": 0.02,
+      "state": 0.01,
+      "president": 0.009,
+      "u": 0.007,
+      "american": 0.006,
+      "administration": 0.006,
+      "syria": 0.006,
+      "military": 0.006,
+      "would": 0.006,
+      "obama": 0.005
+    },
+    "7": {
+      "state": 0.014,
+      "unite": 0.01,
+      "order": 0.009,
+      "security": 0.006,
+      "countries": 0.005,
+      "group": 0.004,
+      "ban": 0.004,
+      "philippines": 0.004,
+      "muslim": 0.004,
+      "refugees": 0.004
+    }
+  }
+}

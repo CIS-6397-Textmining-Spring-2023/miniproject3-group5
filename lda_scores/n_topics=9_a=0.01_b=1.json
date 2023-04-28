@@ -1,0 +1,117 @@
+{
+  "n_topics": 9,
+  "alpha": 0.01,
+  "eta": 1,
+  "perplexity": -8.258023349690712,
+  "coherence": 0.38660725402723717,
+  "topics": {
+    "0": {
+      "state": 0.018,
+      "islamic": 0.014,
+      "force": 0.009,
+      "syria": 0.009,
+      "iraq": 0.006,
+      "military": 0.006,
+      "u": 0.006,
+      "syrian": 0.006,
+      "group": 0.006,
+      "american": 0.006
+    },
+    "1": {
+      "magnum": 0.001,
+      "canyon": 0.0,
+      "state": 0.0,
+      "eu": 0.0,
+      "trump": 0.0,
+      "islamic": 0.0,
+      "american": 0.0,
+      "group": 0.0,
+      "subotzky": 0.0,
+      "cartier": 0.0
+    },
+    "2": {
+      "facebook": 0.006,
+      "news": 0.004,
+      "people": 0.004,
+      "time": 0.004,
+      "like": 0.003,
+      "new": 0.003,
+      "one": 0.003,
+      "media": 0.003,
+      "would": 0.002,
+      "make": 0.002
+    },
+    "3": {
+      "attack": 0.011,
+      "police": 0.007,
+      "kill": 0.006,
+      "state": 0.005,
+      "people": 0.005,
+      "islamic": 0.005,
+      "one": 0.004,
+      "group": 0.004,
+      "bomb": 0.003,
+      "two": 0.003
+    },
+    "4": {
+      "trump": 0.01,
+      "state": 0.01,
+      "new": 0.006,
+      "unite": 0.005,
+      "president": 0.005,
+      "time": 0.005,
+      "people": 0.004,
+      "islamic": 0.004,
+      "one": 0.004,
+      "would": 0.004
+    },
+    "5": {
+      "go": 0.008,
+      "think": 0.006,
+      "get": 0.006,
+      "gigot": 0.005,
+      "one": 0.005,
+      "like": 0.005,
+      "time": 0.005,
+      "people": 0.005,
+      "new": 0.004,
+      "know": 0.004
+    },
+    "6": {
+      "trump": 0.017,
+      "president": 0.008,
+      "state": 0.007,
+      "u": 0.006,
+      "administration": 0.005,
+      "would": 0.005,
+      "american": 0.005,
+      "obama": 0.005,
+      "military": 0.004,
+      "syria": 0.004
+    },
+    "7": {
+      "brandy": 0.001,
+      "haris": 0.001,
+      "ackerman": 0.001,
+      "daesh": 0.0,
+      "photo": 0.0,
+      "novel": 0.0,
+      "foundation": 0.0,
+      "distil": 0.0,
+      "american": 0.0,
+      "war": 0.0
+    },
+    "8": {
+      "gun": 0.003,
+      "vegas": 0.002,
+      "paddock": 0.002,
+      "las": 0.002,
+      "sheriff": 0.001,
+      "shoot": 0.001,
+      "clarke": 0.001,
+      "rifle": 0.001,
+      "french": 0.001,
+      "maher": 0.001
+    }
+  }
+}

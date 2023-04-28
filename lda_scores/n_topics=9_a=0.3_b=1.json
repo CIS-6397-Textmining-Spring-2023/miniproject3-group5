@@ -1,0 +1,117 @@
+{
+  "n_topics": 9,
+  "alpha": 0.3,
+  "eta": 1,
+  "perplexity": -8.270543354411556,
+  "coherence": 0.4022813513282859,
+  "topics": {
+    "0": {
+      "state": 0.018,
+      "islamic": 0.015,
+      "force": 0.009,
+      "syria": 0.009,
+      "iraq": 0.006,
+      "military": 0.006,
+      "u": 0.006,
+      "syrian": 0.006,
+      "group": 0.006,
+      "american": 0.006
+    },
+    "1": {
+      "magnum": 0.001,
+      "state": 0.0,
+      "canyon": 0.0,
+      "trump": 0.0,
+      "eu": 0.0,
+      "islamic": 0.0,
+      "american": 0.0,
+      "group": 0.0,
+      "u": 0.0,
+      "subotzky": 0.0
+    },
+    "2": {
+      "facebook": 0.006,
+      "news": 0.004,
+      "people": 0.004,
+      "time": 0.004,
+      "like": 0.004,
+      "new": 0.003,
+      "one": 0.003,
+      "media": 0.003,
+      "make": 0.002,
+      "would": 0.002
+    },
+    "3": {
+      "attack": 0.012,
+      "police": 0.008,
+      "kill": 0.006,
+      "people": 0.005,
+      "state": 0.005,
+      "islamic": 0.004,
+      "one": 0.004,
+      "group": 0.003,
+      "two": 0.003,
+      "bomb": 0.003
+    },
+    "4": {
+      "trump": 0.011,
+      "state": 0.01,
+      "new": 0.006,
+      "president": 0.005,
+      "unite": 0.005,
+      "time": 0.005,
+      "people": 0.004,
+      "would": 0.004,
+      "one": 0.004,
+      "order": 0.003
+    },
+    "5": {
+      "go": 0.007,
+      "think": 0.006,
+      "get": 0.005,
+      "gigot": 0.005,
+      "one": 0.005,
+      "like": 0.005,
+      "time": 0.005,
+      "new": 0.004,
+      "people": 0.004,
+      "know": 0.004
+    },
+    "6": {
+      "trump": 0.017,
+      "president": 0.008,
+      "state": 0.007,
+      "u": 0.006,
+      "administration": 0.005,
+      "would": 0.005,
+      "american": 0.005,
+      "obama": 0.005,
+      "military": 0.005,
+      "syria": 0.004
+    },
+    "7": {
+      "brandy": 0.001,
+      "haris": 0.001,
+      "ackerman": 0.001,
+      "daesh": 0.0,
+      "photo": 0.0,
+      "foundation": 0.0,
+      "novel": 0.0,
+      "distil": 0.0,
+      "american": 0.0,
+      "press": 0.0
+    },
+    "8": {
+      "gun": 0.003,
+      "vegas": 0.002,
+      "paddock": 0.002,
+      "las": 0.002,
+      "shoot": 0.001,
+      "rifle": 0.001,
+      "gunman": 0.001,
+      "maher": 0.001,
+      "festival": 0.001,
+      "hotel": 0.001
+    }
+  }
+}

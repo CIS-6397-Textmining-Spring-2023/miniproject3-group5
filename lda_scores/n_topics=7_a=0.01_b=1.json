@@ -1,0 +1,93 @@
+{
+  "n_topics": 7,
+  "alpha": 0.01,
+  "eta": 1,
+  "perplexity": -8.252797226900778,
+  "coherence": 0.39051789808517035,
+  "topics": {
+    "0": {
+      "state": 0.018,
+      "islamic": 0.015,
+      "force": 0.009,
+      "syria": 0.008,
+      "group": 0.007,
+      "military": 0.006,
+      "syrian": 0.006,
+      "u": 0.006,
+      "american": 0.005,
+      "iraq": 0.005
+    },
+    "1": {
+      "magnum": 0.001,
+      "foundation": 0.0,
+      "photo": 0.0,
+      "press": 0.0,
+      "world": 0.0,
+      "state": 0.0,
+      "canyon": 0.0,
+      "eu": 0.0,
+      "reuters": 0.0,
+      "trump": 0.0
+    },
+    "2": {
+      "facebook": 0.005,
+      "news": 0.004,
+      "people": 0.004,
+      "time": 0.004,
+      "new": 0.003,
+      "like": 0.003,
+      "one": 0.003,
+      "media": 0.003,
+      "make": 0.003,
+      "would": 0.003
+    },
+    "3": {
+      "attack": 0.011,
+      "police": 0.008,
+      "kill": 0.005,
+      "people": 0.005,
+      "state": 0.004,
+      "one": 0.004,
+      "islamic": 0.003,
+      "two": 0.003,
+      "manchester": 0.003,
+      "year": 0.003
+    },
+    "4": {
+      "state": 0.012,
+      "trump": 0.007,
+      "unite": 0.006,
+      "iraq": 0.005,
+      "new": 0.005,
+      "islamic": 0.004,
+      "president": 0.004,
+      "order": 0.004,
+      "time": 0.004,
+      "attack": 0.003
+    },
+    "5": {
+      "go": 0.008,
+      "think": 0.006,
+      "time": 0.006,
+      "get": 0.005,
+      "new": 0.005,
+      "one": 0.005,
+      "people": 0.005,
+      "like": 0.005,
+      "trump": 0.005,
+      "know": 0.004
+    },
+    "6": {
+      "trump": 0.018,
+      "president": 0.009,
+      "state": 0.008,
+      "u": 0.006,
+      "administration": 0.005,
+      "american": 0.005,
+      "would": 0.005,
+      "obama": 0.005,
+      "russia": 0.005,
+      "syria": 0.005
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "n_topics": 9,
+  "alpha": 0.3,
+  "eta": 0.3,
+  "perplexity": -8.135547552955085,
+  "coherence": 0.413798985220111,
+  "topics": {
+    "0": {
+      "state": 0.021,
+      "islamic": 0.017,
+      "force": 0.011,
+      "syria": 0.01,
+      "syrian": 0.008,
+      "iraq": 0.007,
+      "group": 0.007,
+      "u": 0.007,
+      "military": 0.006,
+      "al": 0.006
+    },
+    "1": {
+      "day": 0.005,
+      "image": 0.003,
+      "trump": 0.003,
+      "kushner": 0.002,
+      "make": 0.002,
+      "march": 0.002,
+      "state": 0.002,
+      "american": 0.002,
+      "like": 0.002,
+      "cadre": 0.002
+    },
+    "2": {
+      "facebook": 0.006,
+      "time": 0.006,
+      "people": 0.005,
+      "like": 0.005,
+      "new": 0.005,
+      "news": 0.005,
+      "one": 0.004,
+      "media": 0.003,
+      "make": 0.003,
+      "would": 0.003
+    },
+    "3": {
+      "attack": 0.012,
+      "state": 0.011,
+      "islamic": 0.009,
+      "kill": 0.008,
+      "police": 0.007,
+      "group": 0.006,
+      "bomb": 0.005,
+      "people": 0.005,
+      "officials": 0.004,
+      "one": 0.004
+    },
+    "4": {
+      "state": 0.012,
+      "trump": 0.009,
+      "new": 0.006,
+      "unite": 0.006,
+      "time": 0.005,
+      "islamic": 0.005,
+      "president": 0.005,
+      "iraq": 0.005,
+      "attack": 0.004,
+      "york": 0.004
+    },
+    "5": {
+      "go": 0.008,
+      "think": 0.007,
+      "trump": 0.007,
+      "get": 0.006,
+      "new": 0.006,
+      "time": 0.006,
+      "one": 0.005,
+      "gigot": 0.005,
+      "people": 0.005,
+      "like": 0.005
+    },
+    "6": {
+      "trump": 0.019,
+      "state": 0.01,
+      "president": 0.009,
+      "u": 0.007,
+      "american": 0.006,
+      "administration": 0.006,
+      "syria": 0.006,
+      "would": 0.006,
+      "military": 0.005,
+      "obama": 0.005
+    },
+    "7": {
+      "state": 0.014,
+      "unite": 0.011,
+      "order": 0.01,
+      "security": 0.005,
+      "secretary": 0.005,
+      "countries": 0.004,
+      "national": 0.004,
+      "foreign": 0.004,
+      "visa": 0.004,
+      "shall": 0.004
+    },
+    "8": {
+      "people": 0.006,
+      "go": 0.005,
+      "one": 0.005,
+      "attack": 0.004,
+      "would": 0.004,
+      "time": 0.004,
+      "know": 0.004,
+      "like": 0.003,
+      "take": 0.003,
+      "police": 0.003
+    }
+  }
+}

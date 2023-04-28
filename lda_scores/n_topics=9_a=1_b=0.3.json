@@ -1,0 +1,117 @@
+{
+  "n_topics": 9,
+  "alpha": 1,
+  "eta": 0.3,
+  "perplexity": -8.157599955224734,
+  "coherence": 0.40235740758479893,
+  "topics": {
+    "0": {
+      "state": 0.021,
+      "islamic": 0.018,
+      "force": 0.011,
+      "syria": 0.01,
+      "syrian": 0.008,
+      "group": 0.007,
+      "iraq": 0.007,
+      "military": 0.007,
+      "u": 0.006,
+      "al": 0.006
+    },
+    "1": {
+      "day": 0.005,
+      "trump": 0.003,
+      "image": 0.003,
+      "state": 0.003,
+      "make": 0.002,
+      "isis": 0.002,
+      "show": 0.002,
+      "kushner": 0.002,
+      "american": 0.002,
+      "march": 0.002
+    },
+    "2": {
+      "facebook": 0.006,
+      "time": 0.006,
+      "new": 0.005,
+      "people": 0.005,
+      "like": 0.005,
+      "news": 0.004,
+      "one": 0.004,
+      "media": 0.003,
+      "make": 0.003,
+      "would": 0.003
+    },
+    "3": {
+      "attack": 0.012,
+      "state": 0.01,
+      "islamic": 0.009,
+      "kill": 0.009,
+      "police": 0.007,
+      "group": 0.005,
+      "people": 0.005,
+      "bomb": 0.005,
+      "officials": 0.004,
+      "two": 0.004
+    },
+    "4": {
+      "state": 0.012,
+      "trump": 0.01,
+      "new": 0.006,
+      "unite": 0.006,
+      "time": 0.005,
+      "president": 0.005,
+      "islamic": 0.005,
+      "iraq": 0.005,
+      "attack": 0.004,
+      "york": 0.004
+    },
+    "5": {
+      "go": 0.008,
+      "trump": 0.007,
+      "think": 0.007,
+      "get": 0.006,
+      "new": 0.006,
+      "time": 0.006,
+      "one": 0.005,
+      "people": 0.005,
+      "gigot": 0.005,
+      "president": 0.005
+    },
+    "6": {
+      "trump": 0.019,
+      "state": 0.01,
+      "president": 0.009,
+      "u": 0.007,
+      "american": 0.007,
+      "administration": 0.006,
+      "syria": 0.006,
+      "military": 0.006,
+      "would": 0.006,
+      "obama": 0.005
+    },
+    "7": {
+      "state": 0.015,
+      "unite": 0.011,
+      "order": 0.01,
+      "security": 0.007,
+      "countries": 0.005,
+      "travel": 0.004,
+      "secretary": 0.004,
+      "refugees": 0.004,
+      "homeland": 0.004,
+      "ban": 0.004
+    },
+    "8": {
+      "attack": 0.006,
+      "people": 0.006,
+      "one": 0.005,
+      "police": 0.004,
+      "go": 0.004,
+      "time": 0.004,
+      "would": 0.003,
+      "know": 0.003,
+      "gun": 0.003,
+      "like": 0.003
+    }
+  }
+}

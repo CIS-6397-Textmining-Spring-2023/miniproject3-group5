@@ -1,0 +1,105 @@
+{
+  "n_topics": 8,
+  "alpha": 1,
+  "eta": 1,
+  "perplexity": -8.285789364006774,
+  "coherence": 0.39198121522819895,
+  "topics": {
+    "0": {
+      "state": 0.019,
+      "islamic": 0.015,
+      "force": 0.009,
+      "syria": 0.008,
+      "iraq": 0.006,
+      "military": 0.006,
+      "group": 0.006,
+      "u": 0.006,
+      "syrian": 0.006,
+      "american": 0.006
+    },
+    "1": {
+      "magnum": 0.001,
+      "state": 0.0,
+      "trump": 0.0,
+      "islamic": 0.0,
+      "american": 0.0,
+      "u": 0.0,
+      "canyon": 0.0,
+      "group": 0.0,
+      "new": 0.0,
+      "syria": 0.0
+    },
+    "2": {
+      "facebook": 0.005,
+      "time": 0.004,
+      "news": 0.004,
+      "people": 0.004,
+      "like": 0.003,
+      "new": 0.003,
+      "one": 0.003,
+      "make": 0.003,
+      "media": 0.003,
+      "company": 0.003
+    },
+    "3": {
+      "attack": 0.012,
+      "police": 0.007,
+      "kill": 0.006,
+      "people": 0.005,
+      "state": 0.005,
+      "one": 0.004,
+      "islamic": 0.004,
+      "two": 0.003,
+      "group": 0.003,
+      "man": 0.003
+    },
+    "4": {
+      "trump": 0.013,
+      "state": 0.01,
+      "president": 0.006,
+      "new": 0.006,
+      "unite": 0.005,
+      "time": 0.005,
+      "people": 0.004,
+      "would": 0.004,
+      "one": 0.004,
+      "order": 0.004
+    },
+    "5": {
+      "go": 0.007,
+      "think": 0.006,
+      "get": 0.005,
+      "gigot": 0.005,
+      "like": 0.005,
+      "time": 0.005,
+      "one": 0.005,
+      "new": 0.005,
+      "people": 0.004,
+      "right": 0.003
+    },
+    "6": {
+      "trump": 0.016,
+      "president": 0.008,
+      "state": 0.007,
+      "u": 0.006,
+      "administration": 0.006,
+      "american": 0.005,
+      "military": 0.005,
+      "would": 0.005,
+      "obama": 0.005,
+      "syria": 0.005
+    },
+    "7": {
+      "brandy": 0.001,
+      "photo": 0.0,
+      "foundation": 0.0,
+      "state": 0.0,
+      "press": 0.0,
+      "american": 0.0,
+      "distil": 0.0,
+      "cognac": 0.0,
+      "world": 0.0,
+      "distillery": 0.0
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "n_topics": 3,
+  "alpha": 0.01,
+  "eta": 1,
+  "perplexity": -8.20258580338354,
+  "coherence": 0.4016397107853251,
+  "topics": {
+    "0": {
+      "state": 0.017,
+      "islamic": 0.013,
+      "force": 0.008,
+      "syria": 0.007,
+      "military": 0.006,
+      "attack": 0.006,
+      "iraq": 0.006,
+      "group": 0.006,
+      "u": 0.006,
+      "american": 0.005
+    },
+    "1": {
+      "trump": 0.018,
+      "state": 0.008,
+      "president": 0.008,
+      "unite": 0.005,
+      "go": 0.005,
+      "would": 0.005,
+      "think": 0.005,
+      "administration": 0.004,
+      "u": 0.004,
+      "american": 0.004
+    },
+    "2": {
+      "time": 0.006,
+      "new": 0.006,
+      "one": 0.005,
+      "people": 0.005,
+      "like": 0.004,
+      "go": 0.003,
+      "york": 0.003,
+      "would": 0.003,
+      "make": 0.003,
+      "trump": 0.003
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "n_topics": 10,
+  "alpha": 1,
+  "eta": 0.01,
+  "perplexity": -8.742817968596645,
+  "coherence": 0.4151098774566135,
+  "topics": {
+    "0": {
+      "state": 0.024,
+      "islamic": 0.021,
+      "force": 0.012,
+      "syria": 0.009,
+      "group": 0.008,
+      "city": 0.008,
+      "iraq": 0.008,
+      "al": 0.007,
+      "military": 0.007,
+      "fighters": 0.007
+    },
+    "1": {
+      "u": 0.016,
+      "syria": 0.015,
+      "state": 0.013,
+      "turkey": 0.012,
+      "syrian": 0.01,
+      "russia": 0.01,
+      "kurdish": 0.009,
+      "assad": 0.009,
+      "trump": 0.008,
+      "russian": 0.008
+    },
+    "2": {
+      "time": 0.006,
+      "facebook": 0.006,
+      "new": 0.005,
+      "people": 0.005,
+      "news": 0.005,
+      "like": 0.005,
+      "one": 0.005,
+      "make": 0.004,
+      "would": 0.004,
+      "company": 0.003
+    },
+    "3": {
+      "attack": 0.014,
+      "state": 0.013,
+      "kill": 0.012,
+      "islamic": 0.01,
+      "bomb": 0.008,
+      "afghanistan": 0.007,
+      "afghan": 0.006,
+      "people": 0.006,
+      "officials": 0.005,
+      "military": 0.005
+    },
+    "4": {
+      "state": 0.009,
+      "new": 0.009,
+      "trump": 0.008,
+      "time": 0.008,
+      "york": 0.006,
+      "president": 0.005,
+      "iraq": 0.005,
+      "unite": 0.004,
+      "islamic": 0.004,
+      "american": 0.004
+    },
+    "5": {
+      "trump": 0.011,
+      "go": 0.011,
+      "think": 0.01,
+      "get": 0.008,
+      "president": 0.006,
+      "gigot": 0.006,
+      "people": 0.006,
+      "one": 0.006,
+      "know": 0.005,
+      "like": 0.005
+    },
+    "6": {
+      "trump": 0.021,
+      "state": 0.011,
+      "president": 0.009,
+      "american": 0.008,
+      "administration": 0.007,
+      "obama": 0.007,
+      "military": 0.007,
+      "would": 0.006,
+      "u": 0.006,
+      "unite": 0.005
+    },
+    "7": {
+      "state": 0.019,
+      "unite": 0.014,
+      "order": 0.012,
+      "trump": 0.008,
+      "security": 0.008,
+      "countries": 0.008,
+      "refugees": 0.007,
+      "ban": 0.006,
+      "group": 0.006,
+      "muslim": 0.006
+    },
+    "8": {
+      "attack": 0.014,
+      "police": 0.009,
+      "people": 0.007,
+      "one": 0.005,
+      "state": 0.005,
+      "manchester": 0.004,
+      "time": 0.004,
+      "shoot": 0.004,
+      "man": 0.004,
+      "gun": 0.003
+    },
+    "9": {
+      "one": 0.006,
+      "islamic": 0.006,
+      "state": 0.006,
+      "time": 0.005,
+      "tell": 0.004,
+      "would": 0.004,
+      "people": 0.004,
+      "group": 0.004,
+      "year": 0.004,
+      "take": 0.004
+    }
+  }
+}

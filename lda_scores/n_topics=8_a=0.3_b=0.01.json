@@ -1,0 +1,105 @@
+{
+  "n_topics": 8,
+  "alpha": 0.3,
+  "eta": 0.01,
+  "perplexity": -8.47232289544321,
+  "coherence": 0.42967838990731877,
+  "topics": {
+    "0": {
+      "state": 0.023,
+      "islamic": 0.02,
+      "force": 0.012,
+      "syria": 0.01,
+      "military": 0.007,
+      "syrian": 0.007,
+      "group": 0.007,
+      "iraq": 0.007,
+      "u": 0.007,
+      "al": 0.007
+    },
+    "1": {
+      "turkey": 0.013,
+      "state": 0.012,
+      "kurdish": 0.011,
+      "u": 0.008,
+      "iraq": 0.008,
+      "kurds": 0.008,
+      "trump": 0.007,
+      "turkish": 0.007,
+      "syria": 0.007,
+      "would": 0.006
+    },
+    "2": {
+      "time": 0.006,
+      "facebook": 0.006,
+      "new": 0.006,
+      "people": 0.005,
+      "like": 0.005,
+      "one": 0.005,
+      "news": 0.005,
+      "make": 0.004,
+      "would": 0.004,
+      "company": 0.004
+    },
+    "3": {
+      "attack": 0.014,
+      "kill": 0.008,
+      "police": 0.008,
+      "state": 0.008,
+      "people": 0.007,
+      "islamic": 0.007,
+      "one": 0.006,
+      "bomb": 0.005,
+      "two": 0.005,
+      "group": 0.004
+    },
+    "4": {
+      "state": 0.009,
+      "new": 0.008,
+      "time": 0.008,
+      "york": 0.006,
+      "trump": 0.006,
+      "islamic": 0.005,
+      "one": 0.004,
+      "president": 0.004,
+      "attack": 0.004,
+      "iraq": 0.003
+    },
+    "5": {
+      "go": 0.01,
+      "trump": 0.009,
+      "think": 0.009,
+      "get": 0.007,
+      "people": 0.006,
+      "one": 0.006,
+      "gigot": 0.006,
+      "know": 0.005,
+      "president": 0.005,
+      "like": 0.005
+    },
+    "6": {
+      "trump": 0.021,
+      "state": 0.01,
+      "president": 0.01,
+      "u": 0.007,
+      "american": 0.007,
+      "administration": 0.006,
+      "military": 0.006,
+      "obama": 0.006,
+      "syria": 0.006,
+      "would": 0.006
+    },
+    "7": {
+      "state": 0.017,
+      "unite": 0.013,
+      "order": 0.01,
+      "trump": 0.008,
+      "security": 0.007,
+      "countries": 0.007,
+      "refugees": 0.006,
+      "ban": 0.006,
+      "muslim": 0.006,
+      "president": 0.006
+    }
+  }
+}
